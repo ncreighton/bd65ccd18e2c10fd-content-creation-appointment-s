@@ -1,2 +1,28 @@
-# bd65ccd18e2c10fd-content-creation-appointment-s
-The fastest way to automate a multi-tool business process in an afternoon. No setup fees. No learning curve.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Content Creation Appointment Scheduling And Reminders — fully c
+# Content Creation Appointment Scheduling and Reminders Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmdR94eP7EocVW6fycZL0h)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmdR94eP7EocVW6fycZL0h)
+
